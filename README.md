@@ -1,23 +1,21 @@
 
 <h2 align="center">
-<code><samp>Hello there. I'm halcolo/Juan Diego Alfonso</samp></code></h2>
+<code><samp>Hello there. I'm halcolo/Juan Diego Alfonso</samp></code>
+</h2>
 
 
 <br>
-
 <p align="center">
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p align="center">
-<samp>I work in following languages </samp>
-</p>
+
 <p>
-
 <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=halcolo&show_icons=true&title_color=9f9f9f&icon_color=33B8FF&text_color=9f9f9f" />
   </a>
+
+  <p align="center">
+<samp>I work in following tools </samp>
+</p>
   
   <a href="https://www.python.org"><code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code></a>
   <a href="https://cloud.google.com"><code><img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code></a>
@@ -36,13 +34,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>  
 
-<p align="center">
-<samp>I want to learn or improve</samp>
-</p>
+<hr/>
 
 <p>
-<img width="30%" align="right" alt="Onimur's github stats" src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png" />
-  
+<img width="30%" align="left" alt="Onimur's github stats" src="
+https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img width="30%" align="right" alt="Onimur's github stats" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
+  <p align="center">
+  <samp>I want to learn or improve</samp>
+  </p>
   <a href="https://golang.org"><code><img width="5%" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/go-512.png"></code></a>
   <a href="https://www.tensorflow.org/?hl=fr"><code><img width="5%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code></a>
   <a href="https://kubernetes.io/fr/"><code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code></a>
@@ -61,4 +62,3 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <code><a href="https://twitter.com/Halcolo_"><img alt="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-05-512.png" title="Twitter" width="35" height="35" /></a></code>
     <code><a href="https://github.com/halcolo"><img alt="Twitter" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-41-512.png" title="Twitter" width="35" height="35" /></a></code>
 </p>
-
