@@ -1,10 +1,11 @@
 
 
 
+<!-- <a src='spotify.com'>
+<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=12138600008&cover_image=true&theme=default'/>
+</a> -->
 
-<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12138600008&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12138600008&redirect=true)
 
 <p align="center">
   <samp>I work in following tools </samp>
